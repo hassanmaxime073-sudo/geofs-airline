@@ -1,0 +1,14 @@
+json
+{
+  "name": "Yellow Wings Airways",
+  "color": "black",
+  "bgcolor": "yellow",
+  "aircrafts": {
+    "boeing737": [
+      {
+        "name": "Livree Jaune Standard",
+        "texture": ["https://votre-site-hebergeur.com"]
+      }
+    ]
+  }
+}
