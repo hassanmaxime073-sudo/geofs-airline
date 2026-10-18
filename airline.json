@@ -1,11 +1,11 @@
 {
-  "name": "Yellow Wings Airways",
+  "name": "Yellow Wings",
   "color": "black",
   "bgcolor": "yellow",
   "aircrafts": {
     "boeing737": [
       {
-        "name": "Livree Jaune Standard",
+        "name": "Jaune",
         "texture": ["https://githubusercontent.com"]
       }
     ]
